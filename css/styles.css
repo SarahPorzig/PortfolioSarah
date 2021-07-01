@@ -48,7 +48,7 @@ display: inline;
   color: #C3789B;
 }
 .navbar-header > a.navbar-brand:hover {
-  color: #FF9CCA;
+  opacity: 0.7;
 }
 .navbar-default .navbar-brand {
   color: #C3789B;
@@ -56,6 +56,9 @@ display: inline;
   font-size: 33px;
   text-transform: lowercase;
   letter-spacing: 2px;
+  transition: opacity .25s ease-in-out;
+  -moz-transition: opacity .25s ease-in-out;
+  -webkit-transition: opacity .25s ease-in-out;
 }
 #brand {
   width: 80px;

@@ -7,3 +7,6 @@
 [submodule "reactTemplateSite"]
 	path = reactTemplateSite
 	url = https://github.com/SarahPorzig/reactTemplateSite.git
+[submodule "AlphaYoga"]
+	path = AlphaYoga
+	url = https://github.com/SarahPorzig/AlphaYoga.git
