@@ -10,3 +10,6 @@
 [submodule "AlphaYoga"]
 	path = AlphaYoga
 	url = https://github.com/SarahPorzig/AlphaYoga.git
+[submodule "koalaceramics"]
+	path = koalaceramics
+	url = https://github.com/SarahPorzig/koalaceramics.git
